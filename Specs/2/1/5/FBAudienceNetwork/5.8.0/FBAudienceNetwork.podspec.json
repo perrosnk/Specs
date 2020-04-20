@@ -13,7 +13,7 @@
     "ios": "9.0"
   },
   "source": {
-    "http": "https://developers.facebook.com/resources/FBAudienceNetwork-5.8.0.zip",
+    "http": "https://origincache.facebook.com/developers/resources/?id=FBAudienceNetwork-5.8.0.zip",
     "sha1": "cb7450c3d4807f6e756bb91d59a3f99e2bdf0c9d"
   },
   "source_files": "Static/FBAudienceNetwork.framework/**/*.h",
